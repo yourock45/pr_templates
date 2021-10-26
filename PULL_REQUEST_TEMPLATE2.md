@@ -3,11 +3,11 @@
 - [ ] Breaking change
 
 ## Type
-(remove unused)
-Bug
-Feature
-Documentation update
-Chore
+(remove unused)</br>
+Bug</br>
+Feature</br>
+Documentation update</br>
+Chore</br>
 
 ## Description
 
