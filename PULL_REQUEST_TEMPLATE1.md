@@ -4,7 +4,7 @@ Description of a change
 
 Fixes # (issue)
 
-[ ] <b>IS BREAKING CHANGE</b>
+- [ ] <b>IS BREAKING CHANGE</b>
 
 ## Type of change
 - [ ] Bug fix
